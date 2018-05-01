@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateProfitAndLoss", "CalculateProfitAndLoss\CalculateProfitAndLoss.csproj", "{7BE08831-03C4-4D5B-9DED-946C6200CB58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BE08831-03C4-4D5B-9DED-946C6200CB58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE08831-03C4-4D5B-9DED-946C6200CB58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE08831-03C4-4D5B-9DED-946C6200CB58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE08831-03C4-4D5B-9DED-946C6200CB58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C672CBBD-5D1D-4D3A-B7D1-342B712898C8}
+	EndGlobalSection
+EndGlobal

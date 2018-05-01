@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalPyramidForNRows", "PascalPyramidForNRows\PascalPyramidForNRows.csproj", "{5DC442CE-608E-444C-85F1-E378964CCEDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DC442CE-608E-444C-85F1-E378964CCEDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC442CE-608E-444C-85F1-E378964CCEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC442CE-608E-444C-85F1-E378964CCEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC442CE-608E-444C-85F1-E378964CCEDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56CDE37D-06FA-4206-97F0-0116621B9350}
+	EndGlobalSection
+EndGlobal
